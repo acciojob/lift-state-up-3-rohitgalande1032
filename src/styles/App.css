@@ -1,1 +1,17 @@
 
+.App {
+    width: 400px;
+    height: 400px;
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+.child1 {
+    background-color: red;
+    height: 100px;
+}
+
+.child2 {
+    background-color: yellow;
+    height: 100px;
+}
